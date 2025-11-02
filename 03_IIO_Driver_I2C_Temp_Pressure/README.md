@@ -1,1 +1,6 @@
-I developed an IIO driver for the Bosch BMP180 to familiarize myself with the subsystem.
+# I developed an IIO driver for the Bosch BMP180 to familiarize myself with the subsystem.
+
+
+
+<img src="ss/terminal.png"/>
+
